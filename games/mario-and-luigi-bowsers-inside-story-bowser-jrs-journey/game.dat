@@ -1,0 +1,9 @@
+title = "Mario and Luigi Bowser's Inside Story + Bowser Jr's Journey"
+description = "Mario and Luigi Bowser's Inside Story + Bowser Jr's Journey is an enhanced remake of the 2009 video game Mario and Luigi: Bowser's Inside Story, released on the Nintendo DS. The game is developed by Alphadream and Published by Nintendo."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D1400"
+region = "usa"
+release_date = "2019-01-11"
